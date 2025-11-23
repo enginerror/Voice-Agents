@@ -1,0 +1,11 @@
+{
+    "drinkType": "coffee",
+    "size": "small",
+    "milk": "whole",
+    "extras": [
+        "sugar"
+    ],
+    "name": "An",
+    "timestamp": "2025-11-23T20:05:07.776163",
+    "session_id": "session_20251123_200507"
+}
